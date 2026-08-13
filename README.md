@@ -20,9 +20,7 @@ Se aplican técnicas de **segmentación, visualización y modelado estadístico*
 ---
 
 ## 📂 Estructura del Repositorio
-- `data/` → rappiplus_orders_raw.csv
-rappiplus_catalog.csv
-rappiplus_marketing_spend.csv  
+- `data/` → Dataset de ordenes, catálogo, gasto en marketing y prueba A/B 
 - `notebooks/` → Jupyter Notebooks con análisis paso a paso.  
 - `visualizations/` → Gráficos y dashboards exportados.  
 - `README.md` → Este documento.
