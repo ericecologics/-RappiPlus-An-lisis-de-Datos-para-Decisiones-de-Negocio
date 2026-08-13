@@ -20,7 +20,9 @@ Se aplican técnicas de **segmentación, visualización y modelado estadístico*
 ---
 
 ## 📂 Estructura del Repositorio
-- `data/` → Dataset de telecom churn adaptado a RappiPlus.  
+- `data/` → rappiplus_orders_raw.csv
+rappiplus_catalog.csv
+rappiplus_marketing_spend.csv  
 - `notebooks/` → Jupyter Notebooks con análisis paso a paso.  
 - `visualizations/` → Gráficos y dashboards exportados.  
 - `README.md` → Este documento.
