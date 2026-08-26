@@ -40,7 +40,7 @@ El objetivo principal es responder a preguntas clave sobre la sostenibilidad eco
 └── README.md                      # Documentación del proyecto
 
 ```
-🛠️ Flujo de Trabajo y Metodología
+## 🛠️ Flujo de Trabajo y Metodología
 
 1. 🔍 Limpieza y Validación de Datos (Python / Pandas)
 - Carga de datasets: Pedidos (orders), Catálogo (catalog) e Inversión en Marketing (marketing).
@@ -73,17 +73,17 @@ El objetivo principal es responder a preguntas clave sobre la sostenibilidad eco
 - Creación de dos tableros principales: Overview Ejecutivo y Detalle / Drill-through.
 - Modelado de datos dimensional, tabla calendario y métricas DAX/LODs para análisis temporal YTD/YoY.
 
-📈 Resultados e Insights Clave
+## 📈 Resultados e Insights Clave
 - Rentabilidad Positiva: El negocio genera un margen de profit sostenible, aunque el costo directo del catálogo representa la mayor porción de los ingresos totales.
 - Efectividad del Experimento: Se recomienda no desplegar la nueva UI de checkout, ya que los costos asociados a su implementación no se justifican por un impacto estadísticamente insignificante.
 - Estabilidad de la Retención: Las cohortes muestran un comportamiento estable cercano al 41-43% de retención en las primeras semanas, señal de una buena adopción inicial.
 
-🖥️ Dashboard e Informes Interactivos
+## 🖥️ Dashboard e Informes Interactivos
 - Los tableros interactivos e insumos limpios se encuentran disponibles para su consulta:
 - 
    🔗 Acceso a Dashboard y Archivos: [[Descargar archivo Power BI](dashboards/rappiplus_dashboard.pbix](https://github.com/ericecologics/-RappiPlus-An-lisis-de-Datos-para-Decisiones-de-Negocio/blob/1b870a0eb48b4e673d00df0cf15d8c35caab03c1/dashboard_rappiplus.pbix))
 -
-   ⚙️ Tecnologías Utilizadas
+## ⚙️ Tecnologías Utilizadas
 - Lenguaje de Programación: Python 3.x
 - Librerías de Análisis: Pandas, NumPy, Statsmodels (proportions_ztest)
 - Base de Datos & SQL: PostgreSQL, SQLAlchemy
