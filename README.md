@@ -81,7 +81,7 @@ El objetivo principal es responder a preguntas clave sobre la sostenibilidad eco
 ## 🖥️ Dashboard e Informes Interactivos
 - Los tableros interactivos e insumos limpios se encuentran disponibles para su consulta:
 - 
-   🔗 Acceso a Dashboard y Archivos: [[Descargar archivo Power BI](dashboards/rappiplus_dashboard.pbix](https://github.com/ericecologics/-RappiPlus-An-lisis-de-Datos-para-Decisiones-de-Negocio/blob/1b870a0eb48b4e673d00df0cf15d8c35caab03c1/dashboard_rappiplus.pbix))
+   🔗 Acceso a Dashboard y Archivos: [Descargar archivo Power BI](dashboards/rappiplus_dashboard.pbix](https://github.com/ericecologics/-RappiPlus-An-lisis-de-Datos-para-Decisiones-de-Negocio/blob/1b870a0eb48b4e673d00df0cf15d8c35caab03c1/dashboard_rappiplus.pbix))
 -
 ## ⚙️ Tecnologías Utilizadas
 - Lenguaje de Programación: Python 3.x
